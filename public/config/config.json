@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x69d558Bb92eDD5D123F75148B02cc04a95b599d0",
+  "SCAN_LINK": "https://ftmscan.com/address/0x69d558bb92edd5d123f75148b02cc04a95b599d0",
+  "NETWORK": {
+    "NAME": "Fantom",
+    "SYMBOL": "FTM",
+    "ID": 250
+  },
+  "NFT_NAME": "fantom Platypos",
+  "SYMBOL": "Platy",
+  "MAX_SUPPLY": 400,
+  "WEI_COST": 8000000000000000000,
+  "DISPLAY_COST": 8,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "TofuNft",
+  "MARKETPLACE_LINK": "https://tofunft.com/discover/items?contracts=14618&network=250",
+  "SHOW_BACKGROUND": true
+}
